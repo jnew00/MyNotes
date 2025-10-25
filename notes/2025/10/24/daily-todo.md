@@ -1,11 +1,11 @@
 ---
 type: note
 ---
-# Daily TOD - Friday, October 24, 2025
+# Daily TODO - Friday, October 24, 2025
 
 ## Top Priorities
 
-- [x] Create Email @default
+- [x] Change Filters @
 
 - [ ] Priority task @default:to-do
 

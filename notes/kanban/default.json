@@ -2,17 +2,11 @@
   "id": "default",
   "name": "Default",
   "createdAt": "2025-10-25T02:39:28.356Z",
-  "updatedAt": "2025-10-25T12:51:31.957Z",
+  "updatedAt": "2025-10-25T13:20:18.203Z",
   "columns": [
     {
       "id": "todo",
       "title": "To Do",
-      "cards": [],
-      "color": "#64748b"
-    },
-    {
-      "id": "in-progress",
-      "title": "In Progress",
       "cards": [
         {
           "id": "card-1761364334479-ue94u1wvv",
@@ -23,8 +17,15 @@
             "note:2025/10/24/daily-todo.md"
           ],
           "createdAt": "2025-10-25T03:52:14.479Z",
-          "updatedAt": "2025-10-25T03:52:14.479Z"
-        },
+          "updatedAt": "2025-10-25T13:20:18.174Z"
+        }
+      ],
+      "color": "#64748b"
+    },
+    {
+      "id": "in-progress",
+      "title": "In Progress",
+      "cards": [
         {
           "id": "card-1761364430162-sk0s6lyd0",
           "title": "t4",
@@ -45,7 +46,19 @@
     {
       "id": "done",
       "title": "Done",
-      "cards": [],
+      "cards": [
+        {
+          "id": "card-1761398390257-dkzknyx0u",
+          "title": "Change Filters",
+          "description": "From: daily-todo (Line 8)",
+          "tags": [
+            "from-note",
+            "note:2025/10/24/daily-todo.md"
+          ],
+          "createdAt": "2025-10-25T13:19:50.257Z",
+          "updatedAt": "2025-10-25T13:20:18.174Z"
+        }
+      ],
       "color": "#10b981"
     }
   ],
