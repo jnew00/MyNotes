@@ -11,7 +11,9 @@ type: note
 
 - [ ] Priority task 3
 
-## Today's Tasks
+```
+Today's Tasks
+```
 
 kajslkja
 
