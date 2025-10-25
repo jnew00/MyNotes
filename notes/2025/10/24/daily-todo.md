@@ -5,7 +5,7 @@ type: note
 
 ## Top Priorities
 
-- [x] Change Filters @kanban
+- [x] Change Filters 2 @default
 
 - [ ] Priority task @default:to-do
 
