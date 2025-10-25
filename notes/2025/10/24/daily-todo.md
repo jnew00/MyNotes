@@ -7,15 +7,17 @@ type: note
 
 - [x] Change Filters 8 @kanban
 
-- [ ] Priority task @default:to-do
+- [x] Priority task @default:to-do
 
 - [ ] Priority task 3
 
-```
+```plaintext
 Today's Tasks
 ```
 
+```
 kajslkja
+```
 
 lakf
 
