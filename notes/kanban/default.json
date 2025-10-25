@@ -2,22 +2,22 @@
   "id": "default",
   "name": "Default",
   "createdAt": "2025-10-25T02:39:28.356Z",
-  "updatedAt": "2025-10-25T14:16:12.647Z",
+  "updatedAt": "2025-10-25T14:17:31.615Z",
   "columns": [
     {
       "id": "todo",
       "title": "To Do",
       "cards": [
         {
-          "id": "card-1761401767147-shsatj68h",
+          "id": "card-1761401851560-iryphwe0p",
           "title": "Priority task",
           "description": "From: daily-todo (Line 10)",
           "tags": [
             "from-note",
             "note:2025/10/24/daily-todo.md"
           ],
-          "createdAt": "2025-10-25T14:16:07.147Z",
-          "updatedAt": "2025-10-25T14:16:07.147Z"
+          "createdAt": "2025-10-25T14:17:31.560Z",
+          "updatedAt": "2025-10-25T14:17:31.560Z"
         }
       ],
       "color": "#64748b"
@@ -39,7 +39,19 @@
     {
       "id": "done",
       "title": "Done",
-      "cards": [],
+      "cards": [
+        {
+          "id": "card-1761401851560-f1ms4wavl",
+          "title": "Change Filters 6",
+          "description": "From: daily-todo (Line 8)",
+          "tags": [
+            "from-note",
+            "note:2025/10/24/daily-todo.md"
+          ],
+          "createdAt": "2025-10-25T14:17:31.560Z",
+          "updatedAt": "2025-10-25T14:17:31.560Z"
+        }
+      ],
       "color": "#10b981"
     }
   ],
