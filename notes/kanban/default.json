@@ -2,23 +2,12 @@
   "id": "default",
   "name": "Default",
   "createdAt": "2025-10-25T02:39:28.356Z",
-  "updatedAt": "2025-10-25T14:37:30.704Z",
+  "updatedAt": "2025-10-25T14:41:35.276Z",
   "columns": [
     {
       "id": "todo",
       "title": "Backlogaekhffkfeh",
       "cards": [
-        {
-          "id": "card-1761402944250-k2r2ke8ww",
-          "title": "Change Filters 8",
-          "description": "From: daily-todo (Line 8)",
-          "tags": [
-            "from-note",
-            "note:2025/10/24/daily-todo.md"
-          ],
-          "createdAt": "2025-10-25T14:35:44.250Z",
-          "updatedAt": "2025-10-25T14:37:30.672Z"
-        },
         {
           "id": "card-1761402751863-umjycavpu",
           "title": "Priority task",
@@ -36,7 +25,19 @@
     {
       "id": "in-progress",
       "title": "In Progress",
-      "cards": [],
+      "cards": [
+        {
+          "id": "card-1761402944250-k2r2ke8ww",
+          "title": "Change Filters 8",
+          "description": "From: daily-todo (Line 8)",
+          "tags": [
+            "from-note",
+            "note:2025/10/24/daily-todo.md"
+          ],
+          "createdAt": "2025-10-25T14:35:44.250Z",
+          "updatedAt": "2025-10-25T14:37:30.672Z"
+        }
+      ],
       "wipLimit": 3,
       "color": "#3b82f6"
     },
