@@ -1,11 +1,11 @@
 ---
 type: note
 ---
-# Daily TODO - Friday, October 24, 2025
+# Daily TODOS - Friday, October 24, 2025
 
 ## Top Priorities
 
-- [x] Change Filters @
+- [x] Change Filters @kanban
 
 - [ ] Priority task @default:to-do
 
