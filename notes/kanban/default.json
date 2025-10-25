@@ -2,7 +2,7 @@
   "id": "default",
   "name": "Default",
   "createdAt": "2025-10-25T02:39:28.356Z",
-  "updatedAt": "2025-10-25T14:53:25.711Z",
+  "updatedAt": "2025-10-25T14:53:32.454Z",
   "columns": [
     {
       "id": "todo",
@@ -13,7 +13,19 @@
     {
       "id": "in-progress",
       "title": "In Progress",
-      "cards": [],
+      "cards": [
+        {
+          "id": "card-1761402944250-k2r2ke8ww",
+          "title": "Change Filters 8",
+          "description": "From: daily-todo (Line 8)",
+          "tags": [
+            "from-note",
+            "note:2025/10/24/daily-todo.md"
+          ],
+          "createdAt": "2025-10-25T14:35:44.250Z",
+          "updatedAt": "2025-10-25T14:53:32.422Z"
+        }
+      ],
       "wipLimit": 3,
       "color": "#3b82f6"
     },
@@ -29,17 +41,6 @@
       "title": "Done",
       "cards": [
         {
-          "id": "card-1761402944250-k2r2ke8ww",
-          "title": "Change Filters 8",
-          "description": "From: daily-todo (Line 8)",
-          "tags": [
-            "from-note",
-            "note:2025/10/24/daily-todo.md"
-          ],
-          "createdAt": "2025-10-25T14:35:44.250Z",
-          "updatedAt": "2025-10-25T14:53:25.683Z"
-        },
-        {
           "id": "card-1761402751863-umjycavpu",
           "title": "Priority task",
           "description": "From: daily-todo (Line 10)",
@@ -48,7 +49,7 @@
             "note:2025/10/24/daily-todo.md"
           ],
           "createdAt": "2025-10-25T14:32:31.863Z",
-          "updatedAt": "2025-10-25T14:53:25.683Z"
+          "updatedAt": "2025-10-25T14:53:32.422Z"
         }
       ],
       "color": "#10b981"
