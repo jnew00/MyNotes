@@ -2,12 +2,23 @@
   "id": "default",
   "name": "Default",
   "createdAt": "2025-10-25T02:39:28.356Z",
-  "updatedAt": "2025-10-25T14:32:31.957Z",
+  "updatedAt": "2025-10-25T14:37:30.704Z",
   "columns": [
     {
       "id": "todo",
-      "title": "Backlog",
+      "title": "Backlogaekhffkfeh",
       "cards": [
+        {
+          "id": "card-1761402944250-k2r2ke8ww",
+          "title": "Change Filters 8",
+          "description": "From: daily-todo (Line 8)",
+          "tags": [
+            "from-note",
+            "note:2025/10/24/daily-todo.md"
+          ],
+          "createdAt": "2025-10-25T14:35:44.250Z",
+          "updatedAt": "2025-10-25T14:37:30.672Z"
+        },
         {
           "id": "card-1761402751863-umjycavpu",
           "title": "Priority task",
@@ -17,7 +28,7 @@
             "note:2025/10/24/daily-todo.md"
           ],
           "createdAt": "2025-10-25T14:32:31.863Z",
-          "updatedAt": "2025-10-25T14:32:31.863Z"
+          "updatedAt": "2025-10-25T14:37:30.672Z"
         }
       ],
       "color": "#64748b"
@@ -39,19 +50,7 @@
     {
       "id": "done",
       "title": "Done",
-      "cards": [
-        {
-          "id": "card-1761402751863-4xsfjb6d0",
-          "title": "Change Filters 7",
-          "description": "From: daily-todo (Line 8)",
-          "tags": [
-            "from-note",
-            "note:2025/10/24/daily-todo.md"
-          ],
-          "createdAt": "2025-10-25T14:32:31.863Z",
-          "updatedAt": "2025-10-25T14:32:31.863Z"
-        }
-      ],
+      "cards": [],
       "color": "#10b981"
     }
   ],
