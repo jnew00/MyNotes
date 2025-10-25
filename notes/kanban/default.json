@@ -2,7 +2,7 @@
   "id": "default",
   "name": "Default",
   "createdAt": "2025-10-25T02:39:28.356Z",
-  "updatedAt": "2025-10-25T14:49:10.695Z",
+  "updatedAt": "2025-10-25T14:53:25.711Z",
   "columns": [
     {
       "id": "todo",
@@ -20,6 +20,13 @@
     {
       "id": "review",
       "title": "Review",
+      "cards": [],
+      "wipLimit": 2,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "done",
+      "title": "Done",
       "cards": [
         {
           "id": "card-1761402944250-k2r2ke8ww",
@@ -30,16 +37,8 @@
             "note:2025/10/24/daily-todo.md"
           ],
           "createdAt": "2025-10-25T14:35:44.250Z",
-          "updatedAt": "2025-10-25T14:48:05.244Z"
-        }
-      ],
-      "wipLimit": 2,
-      "color": "#f59e0b"
-    },
-    {
-      "id": "done",
-      "title": "Done",
-      "cards": [
+          "updatedAt": "2025-10-25T14:53:25.683Z"
+        },
         {
           "id": "card-1761402751863-umjycavpu",
           "title": "Priority task",
@@ -49,7 +48,7 @@
             "note:2025/10/24/daily-todo.md"
           ],
           "createdAt": "2025-10-25T14:32:31.863Z",
-          "updatedAt": "2025-10-25T14:48:05.244Z"
+          "updatedAt": "2025-10-25T14:53:25.683Z"
         }
       ],
       "color": "#10b981"
