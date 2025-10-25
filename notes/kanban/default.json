@@ -2,24 +2,12 @@
   "id": "default",
   "name": "Default",
   "createdAt": "2025-10-25T02:39:28.356Z",
-  "updatedAt": "2025-10-25T14:41:47.597Z",
+  "updatedAt": "2025-10-25T14:47:56.216Z",
   "columns": [
     {
       "id": "todo",
       "title": "Backlogaekhffkfeh",
-      "cards": [
-        {
-          "id": "card-1761402751863-umjycavpu",
-          "title": "Priority task",
-          "description": "From: daily-todo (Line 10)",
-          "tags": [
-            "from-note",
-            "note:2025/10/24/daily-todo.md"
-          ],
-          "createdAt": "2025-10-25T14:32:31.863Z",
-          "updatedAt": "2025-10-25T14:41:47.566Z"
-        }
-      ],
+      "cards": [],
       "color": "#64748b"
     },
     {
@@ -35,7 +23,7 @@
             "note:2025/10/24/daily-todo.md"
           ],
           "createdAt": "2025-10-25T14:35:44.250Z",
-          "updatedAt": "2025-10-25T14:41:47.566Z"
+          "updatedAt": "2025-10-25T14:47:37.991Z"
         }
       ],
       "wipLimit": 3,
@@ -51,7 +39,19 @@
     {
       "id": "done",
       "title": "Done",
-      "cards": [],
+      "cards": [
+        {
+          "id": "card-1761402751863-umjycavpu",
+          "title": "Priority task",
+          "description": "From: daily-todo (Line 10)",
+          "tags": [
+            "from-note",
+            "note:2025/10/24/daily-todo.md"
+          ],
+          "createdAt": "2025-10-25T14:32:31.863Z",
+          "updatedAt": "2025-10-25T14:47:37.991Z"
+        }
+      ],
       "color": "#10b981"
     }
   ],
