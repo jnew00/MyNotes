@@ -11,23 +11,35 @@ type: note
 
 - [ ] Priority task 3
 
-```
+```javascript
 kajslkja
 ```
 
-```
-for (var i=1; i <= 20; i++)
-{
-  if (i % 15 == 0)
-    console.log("FizzBuzz");
-  else if (i % 3 == 0)
-    console.log("Fizz");
-  else if (i % 5 == 0)
-    console.log("Buzz");
-  else
-    console.log(i);
+for (var i=1; i &lt;= 20; i++)\
+{\
+if (i % 15 == 0)\
+console.log("FizzBuzz");\
+else if (i % 3 == 0)\
+console.log("Fizz");\
+else if (i % 5 == 0)\
+console.log("Buzz");\
+else\
+console.log(i)
+
 }
-```
+
+1. <mark class="bg-yellow-200 dark:bg-yellow-800">Hello i am Jason</mark>
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
 
 - [ ] Task item 1
 
